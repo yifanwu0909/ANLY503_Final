@@ -1,0 +1,10 @@
+ROOT data file: 
+
+fips_latlong.csv
+mar_divc_county.csv
+
+
+Read-to-plot data/ Intermediate data file after cleaning: 
+
+leaflet_mar.csv
+leaflet_div.csv
