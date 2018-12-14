@@ -2,7 +2,7 @@ ROOT data file:
 
    - income_marriage_boxplot.csv
     
-   - psam_pusb.csv: 
+   - psam_pusb.csv (Not included in this folder b/c size too big: 1.6GB, see below for source): 
 
         - Data Source Link: https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_pums_csv_2012_2016&prodType=document
           Click "United States Population Records" to download data for whole US. 
