@@ -1,0 +1,101 @@
+,GEOID,mar_rate,div_rate,county,lat,long
+76,2105,50.0,18.4,"Hoonah-Angoon Census Area, Alaska",58.076434,-135.1851
+143,5067,40.2,18.8,"Jackson County, Arkansas",35.596605,-91.223178
+166,5113,51.4,16.6,"Polk County, Arkansas",34.490915,-94.230884
+177,5135,52.1,16.4,"Sharp County, Arkansas",36.173399,-91.471069
+180,5141,54.3,16.2,"Van Buren County, Arkansas",35.582959,-92.515977
+207,6045,44.2,16.7,"Mendocino County, California",39.432388,-123.442881
+237,6105,51.8,16.9,"Trinity County, California",40.647724,-123.114404
+255,8023,50.0,16.6,"Costilla County, Colorado",37.277547,-105.42894
+292,8097,39.5,21.0,"Pitkin County, Colorado",39.217533,-106.915943
+298,8109,54.4,16.4,"Saguache County, Colorado",38.033952,-106.246675
+300,8113,46.8,16.1,"San Miguel County, Colorado",38.009374,-108.427326
+332,12029,44.8,17.4,"Dixie County, Florida",29.580899,-83.195666
+355,12075,46.8,16.8,"Levy County, Florida",29.284409,-82.783483
+362,12087,46.0,17.2,"Monroe County, Florida",25.601043,-81.206777
+372,12107,44.5,16.3,"Putnam County, Florida",29.606006,-81.740894
+379,12121,47.9,16.3,"Suwannee County, Florida",30.189244,-82.992754
+381,12125,35.9,18.0,"Union County, Florida",30.05428,-82.366918
+551,16003,58.2,17.0,"Adams County, Idaho",44.884583,-116.431873
+592,16085,49.7,19.7,"Valley County, Idaho",44.771532,-115.637875
+628,17069,48.3,16.4,"Hardin County, Illinois",37.517852,-88.266148
+716,18041,50.6,17.8,"Fayette County, Indiana",39.639655,-85.185032
+726,18061,51.7,16.5,"Harrison County, Indiana",38.18644,-86.103681
+728,18065,47.6,16.9,"Henry County, Indiana",39.929576,-85.397338
+746,18101,51.3,18.7,"Martin County, Indiana",38.705322,-86.801847
+756,18121,51.3,16.4,"Parke County, Indiana",39.77425,-87.19695
+776,18161,51.0,16.3,"Union County, Indiana",39.623111,-84.925152
+778,18165,50.1,17.6,"Vermillion County, Indiana",39.854045,-87.462071
+906,20039,52.1,18.4,"Decatur County, Kansas",39.783542,-100.459708
+959,20145,46.5,18.2,"Pawnee County, Kansas",38.182873,-99.232154
+990,20207,51.7,16.1,"Woodson County, Kansas",37.888484,-95.757553
+994,21005,56.2,16.6,"Anderson County, Kentucky",38.005396,-84.986417
+1024,21065,50.8,16.6,"Estill County, Kentucky",37.69246,-83.963927
+1030,21077,52.1,16.7,"Gallatin County, Kentucky",38.760184,-84.862114
+1063,21143,48.1,19.1,"Lyon County, Kentucky",37.023976,-88.083391
+1078,21173,48.7,17.1,"Montgomery County, Kentucky",38.038138,-83.912338
+1100,21217,44.2,17.3,"Taylor County, Kentucky",37.365106,-85.326698
+1110,21237,48.9,17.1,"Wolfe County, Kentucky",37.743774,-83.495068
+1181,23011,48.7,16.3,"Kennebec County, Maine",44.417012,-69.765764
+1182,23013,50.7,16.4,"Knox County, Maine",44.042045,-69.038515
+1184,23017,46.1,16.5,"Oxford County, Maine",44.494585,-70.734688
+1186,23021,51.6,17.3,"Piscataquis County, Maine",45.917678,-69.104548
+1289,26119,50.8,18.6,"Montmorency County, Michigan",45.024134,-84.130107
+1301,26143,53.1,16.7,"Roscommon County, Michigan",44.339517,-84.611272
+1501,29039,54.0,17.0,"Cedar County, Missouri",37.733655,-93.850014
+1511,29059,55.8,17.4,"Dallas County, Missouri",37.683583,-93.033812
+1616,30039,58.6,17.9,"Granite County, Montana",46.395358,-113.425683
+1623,30053,54.9,17.4,"Lincoln County, Montana",48.542232,-115.404343
+1626,30059,54.9,16.7,"Meagher County, Montana",46.585706,-110.921781
+1627,30061,46.8,18.8,"Mineral County, Montana",47.155213,-115.06455
+1635,30077,45.1,18.1,"Powell County, Montana",46.844225,-112.9311
+1637,30081,53.7,16.2,"Ravalli County, Montana",46.079298,-114.119065
+1750,32009,40.9,21.3,"Esmeralda County, Nevada",37.778966,-117.632382
+1751,32011,60.1,18.8,"Eureka County, Nevada",39.977788,-116.272208
+1758,32027,45.3,21.1,"Pershing County, Nevada",40.439639,-118.409477
+1759,32029,52.6,19.0,"Storey County, Nevada",39.438385,-119.524646
+1762,32510,43.5,18.0,"Carson City, Nevada",39.153447,-119.743442
+1800,35011,25.9,20.0,"De Baca County, New Mexico",34.351429,-104.401527
+1805,35021,45.9,27.5,"Harding County, New Mexico",35.863152,-103.829931
+1808,35027,51.9,17.8,"Lincoln County, New Mexico",33.740941,-105.449083
+1821,35051,49.0,19.9,"Sierra County, New Mexico",33.119479,-107.188161
+1823,35055,41.6,16.8,"Taos County, New Mexico",36.576529,-105.637987
+2094,39105,52.0,16.1,"Meigs County, Ohio",39.089807,-82.028397
+2107,39131,48.3,16.2,"Pike County, Ohio",39.071365,-83.052921
+2131,40003,51.0,18.0,"Alfalfa County, Oklahoma",36.729703,-98.323445
+2157,40055,38.2,18.4,"Greer County, Oklahoma",34.935263,-99.552968
+2164,40069,49.5,16.2,"Johnston County, Oklahoma",34.313455,-96.654255
+2185,40111,45.4,16.3,"Okmulgee County, Oklahoma",35.646879,-95.96458
+2212,41011,49.9,16.2,"Coos County, Oregon",43.184193,-124.092557
+2214,41015,52.2,19.0,"Curry County, Oregon",42.466671,-124.211407
+2223,41033,51.1,16.3,"Josephine County, Oregon",42.385382,-123.597245
+2225,41037,51.5,18.4,"Lake County, Oregon",42.788401,-120.38979
+2227,41041,51.3,16.3,"Lincoln County, Oregon",44.641076,-123.911183
+2234,41055,50.8,16.2,"Sherman County, Oregon",45.399216,-120.678512
+2254,42023,46.3,16.2,"Cameron County, Pennsylvania",41.438289,-78.198315
+2457,47061,44.7,16.3,"Grundy County, Tennessee",35.387273,-85.722188
+2474,47095,34.1,18.4,"Lake County, Tennessee",36.333905,-89.485537
+2502,47151,49.5,17.2,"Scott County, Tennessee",36.437239,-84.498386
+2515,47177,49.8,17.3,"Warren County, Tennessee",35.678282,-85.777363
+2531,48019,56.0,16.5,"Bandera County, Texas",29.755748,-99.260682
+2543,48043,49.1,17.8,"Brewster County, Texas",29.808997,-103.252458
+2588,48133,44.3,17.7,"Eastland County, Texas",32.324645,-98.83656
+2620,48197,50.3,17.0,"Hardeman County, Texas",34.289904,-99.745697
+2652,48261,36.0,18.0,"Kenedy County, Texas",26.890232,-97.591233
+2672,48301,44.3,24.3,"Loving County, Texas",31.844936,-103.561229
+2711,48379,54.4,16.7,"Rains County, Texas",32.87058,-95.79544
+2714,48385,43.7,19.1,"Real County, Texas",29.82303,-99.805303
+2723,48403,48.9,18.8,"Sabine County, Texas",31.3433,-93.851913
+2785,49019,51.8,16.3,"Grand County, Utah",38.974326,-109.57345
+2841,51045,55.4,22.3,"Craig County, Virginia",37.473129,-80.231734
+2927,51640,42.6,17.1,"Galax city, Virginia",36.66564,-80.914308
+2938,51720,41.1,24.8,"Norton city, Virginia",36.931549,-82.625996
+2953,53003,51.1,18.0,"Asotin County, Washington",46.181861,-117.227781
+2965,53027,47.3,16.3,"Grays Harbor County, Washington",47.142786,-123.827043
+2967,53031,55.9,16.3,"Jefferson County, Washington",47.802641,-123.52181
+2998,54015,54.0,16.4,"Clay County, West Virginia",38.459826,-81.081866
+3005,54029,50.3,16.4,"Hancock County, West Virginia",40.516931,-80.570057
+3041,54101,53.5,16.9,"Webster County, West Virginia",38.492985,-80.430262
+3126,56017,60.2,16.2,"Hot Springs County, Wyoming",43.720871,-108.435652
+3127,56019,54.1,16.1,"Johnson County, Wyoming",44.044048,-106.588541
+3135,56035,53.6,16.9,"Sublette County, Wyoming",42.767928,-109.91617
