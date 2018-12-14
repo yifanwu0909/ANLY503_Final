@@ -1,3 +1,5 @@
+library(ggplot2)
+
 m_ideal <- read.csv("m_ideal_m_age.csv")
 f_ideal <- read.csv("f_ideal_m_age.csv")
 
