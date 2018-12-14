@@ -1,3 +1,7 @@
+import pandas as pd
+import networkx as nx
+import numpy as np
+
 df = pd.read_csv("pew.csv")
 df = df[["q15a", "q15b", "q15c", "q15d", "q15e", "q15f", "q15g", "q15h", "q15i"]]
 df.columns = ["Faithfulness", 
